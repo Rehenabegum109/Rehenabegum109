@@ -37,9 +37,19 @@ Building modern, responsive, and production-ready full-stack web applications.
 
 ---
 
-### 🚀 Example Project
-- **Habit Tracker App** — MERN-based productivity tool  
-  [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker) | [🌐 Live Demo](#)
+### 🚀 Pinned Repositories
+
+1. **habit-tracker-client** — Frontend of Habit Tracker App  
+   [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker-client) | [🌐 Live Demo](#)  
+   **Tech Stack:** React, Tailwind CSS, JavaScript  
+
+2. **B12-A40_Hero_apps** — Full-stack Hero management App  
+   [🔗 Repo](https://github.com/Rehenabegum109/B12-A40_Hero_apps) | [🌐 Live Demo](#)  
+   **Tech Stack:** React, Node.js, Express, MongoDB  
+
+3. **B12A06_Green_Earth** — Environmental awareness website  
+   [🔗 Repo](https://github.com/Rehenabegum109/B12A06_Green_Earth) | [🌐 Live Demo](#)  
+   **Tech Stack:** HTML, CSS, JavaScript  
 
 ---
 
@@ -54,6 +64,8 @@ Building modern, responsive, and production-ready full-stack web applications.
 ### 📫 Connect with Me
 - GitHub: [🐙 Rehenabegum109](https://github.com/Rehenabegum109)
 - Email: ✉️ rehenabegum999000@gmail.com
+- LinkedIn: [🔗 Connect](https://www.linkedin.com/in/rehenabegum109)  
+- Twitter: [🔗 Follow](https://twitter.com/rehenabegum109)
 
 ---
 
