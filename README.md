@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="./Banner.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm Rehena Begum
 
 ### 🌐 MERN Stack Developer | JavaScript Enthusiast
@@ -15,45 +20,34 @@ Building modern, responsive, and production-ready full-stack web applications.
 ---
 
 ### 🧩 Skills & Technologies
-- ⚛️ React
-- 🟢 Node.js
-- 🍃 MongoDB
-- 💛 JavaScript
-- 🌬️ Tailwind CSS
-- 🔧 Express.js
-- 🛠️ Git & GitHub
-- 💻 VSCode
-- 📬 Postman
-- 🔥 Firebase
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
-### 🏷️ Badges
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🚀 Example Project
+- **Habit Tracker App** — MERN-based productivity tool  
+  [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker) | [🌐 Live Demo](#)
 
 ---
 
-
-
-Example Project:
-- 🚀 **Habit Tracker App** — MERN-based productivity tool [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker) [🌐 Live Demo](#)
-
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 ![Rehena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rehenabegum109&show_icons=true&theme=radical)
 
-### 🏆 Top Languages
+### 🏆 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehenabegum109&layout=compact&theme=radical)
-
----
-
-
 
 ---
 
@@ -61,12 +55,6 @@ Example Project:
 - GitHub: [🐙 Rehenabegum109](https://github.com/Rehenabegum109)
 - Email: ✉️ rehenabegum999000@gmail.com
 
-
 ---
-
-### ⚙️ Setup Auto-Updating Projects via GitHub Actions
-1. Create `.github/workflows/update_projects.yml` in your profile repo.
-2. Use a GitHub Action that fetches your latest repos and updates the README between `<!-- START_PROJECTS -->` and `<!-- END_PROJECTS -->`.
-3. Example Actions: [GitHub Readme Updater](https://github.com/marketplace/actions/github-readme-updater)
 
 <!-- Proudly created with ❤️ by Rehena Begum -->
