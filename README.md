@@ -10,7 +10,7 @@ Building modern, responsive, and production-ready full-stack web applications.
 - 🛠️ Working on: **Habit Tracker, Productivity Tools, MERN Apps**
 - 🤝 Open to collaborate on: **Open Source & Full-stack projects**
 - 💬 Ask me about: **React, Node, Express, MongoDB, UI/UX**
-- 📫 Reach me at: ✉️ rehena.email@example.com
+- 📫 Reach me at: ✉️ rehenabegum999000@gmail.com
 
 ---
 
