@@ -43,11 +43,11 @@ Building modern, responsive, and production-ready full-stack web applications.
    [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker-client) | [🌐 Live Demo](#)  
    **Tech Stack:** React, Tailwind CSS, JavaScript  
 
-2. **B12-A40_Hero_apps** — Full-stack Hero management App  
+2. **B12-A40-Hero-Apps** — Full-stack Hero management App  
    [🔗 Repo](https://github.com/Rehenabegum109/B12-A40_Hero_apps) | [🌐 Live Demo](#)  
    **Tech Stack:** React, Node.js, Express, MongoDB  
 
-3. **B12A06_Green_Earth** — Environmental awareness website  
+3. **B12A06-Green-Earth** — Environmental awareness website  
    [🔗 Repo](https://github.com/Rehenabegum109/B12A06_Green_Earth) | [🌐 Live Demo](#)  
    **Tech Stack:** HTML, CSS, JavaScript  
 
