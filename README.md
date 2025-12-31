@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Rehena Begum
 
-### 🌐 MERN Stack Developer | JavaScript Enthusiast
+### 🌐 Frontend Developer | React & Next.js Enthusiast
 Building modern, responsive, and production-ready full-stack web applications.
 
 ---
@@ -64,9 +64,9 @@ Building modern, responsive, and production-ready full-stack web applications.
 ### 📫 Connect with Me
 - GitHub: [🐙 Rehenabegum109](https://github.com/Rehenabegum109)
 - Email: ✉️ rehenabegum999000@gmail.com
-- LinkedIn: [🔗 Connect](https://www.linkedin.com/in/rehenabegum109)  
+- LinkedIn: [🔗 Connect](https://linkedin.com/in/rehena-begum-057894396)  
 - Twitter: [🔗 Follow](https://twitter.com/rehenabegum109)
-
+-  Portfolio:🔗(https://fantastic-pudding-980791.netlify.app)
 ---
-
+- 
 <!-- Proudly created with ❤️ by Rehena Begum -->
