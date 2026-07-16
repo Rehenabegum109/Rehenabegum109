@@ -18,8 +18,8 @@ I'm currently looking for remote Frontend Developer opportunities where I can co
 - 🌱 Currently learning **Advanced React, Next.js, and Backend Development**
 - 💼 Looking for **Remote Frontend Developer Opportunities**
 - 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS**
-- 📫 Reach me: your-email@gmail.com
-- 🌐 Portfolio: https://glittery-gaufre-284671.netlify.app/
+- 📫 Reach me: rehenabegum999000@gmail.com
+- 🌐 Portfolio: https://glittery-gaufre-284671.netlify.app
 
 ### 🧩 Skills & Technologies
 
@@ -77,8 +77,8 @@ A full-stack scholarship management platform where students can apply for schola
 **🛠️ Tech Stack**
 React • Node.js • Express.js • MongoDB • Firebase
 
-🔗 **Repository:** https://github.com/Rehenabegum109/scholarstream-client  
-🌐 **Live Demo:** https://your-live-demo-link.com
+🔗 **Repository:** https://github.com/Rehenabegum109/-ScholarStream
+🌐 **Live Demo:** https://illustrious-daffodil-e7692d.netlify.app
 ### 🎬 Movie Matrix
 A movie discovery and streaming platform featuring trending movies, watchlists, reviews, and personalized recommendations.
 
@@ -91,8 +91,8 @@ A movie discovery and streaming platform featuring trending movies, watchlists, 
 **🛠️ Tech Stack**
 React • Node.js • Express.js • MongoDB
 
-🔗 **Repository:** https://github.com/Rehenabegum109/movie-matrix  
-🌐 **Live Demo:** https://your-live-demo-link.com
+🔗 **Repository:**https://github.com/Rehenabegum109/movie_matrix 
+🌐 **Live Demo:**https://eg-movie-matrix-collaboration.vercel.app
 ### **habit-tracker-client** — Frontend of Habit Tracker App
 2. Frontend of a modern Habit Tracker application with responsive UI and habit management features.
   **✨ Features**
@@ -100,7 +100,8 @@ React • Node.js • Express.js • MongoDB
 - Create, Update & Delete Habits
 - Progress Tracking
 - Responsive Design
-   [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker-client) | [🌐 Live Demo](#)  
+   [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker-client) 
+ 🌐 **Live Demo: https://poetic-flan-c66ee4.netlify.app
    **Tech Stack:** React, Tailwind CSS, JavaScript  
 
 ### **B12-A40-Hero-Apps** — Full-stack Hero management App
@@ -111,7 +112,8 @@ A full-stack CRUD application for managing superhero data with secure backend AP
 - REST API
 - Database Integration
 - Responsive UI
-   [🔗 Repo](https://github.com/Rehenabegum109/B12-A40_Hero_apps) | [🌐 Live Demo](#)  
+   [🔗 Repo](https://github.com/Rehenabegum109/B12-A40_Hero_apps) 
+   [🌐 Live Demo](#)  
    **Tech Stack:** React, Node.js, Express, MongoDB  
 
 ### **B12A06-Green-Earth** — Environmental awareness website
@@ -125,19 +127,35 @@ An environmental awareness website promoting sustainability with an engaging and
 
 **🛠️ Tech Stack**
 HTML5 • CSS3 • JavaScript
-   [🔗 Repo](https://github.com/Rehenabegum109/B12A06_Green_Earth) | [🌐 Live Demo](#)  
+   [🔗 Repo](https://github.com/Rehenabegum109/B12A06_Green_Earth) 
+   [🌐 Live Demo](#)  
    **Tech Stack:** HTML, CSS, JavaScript
 
 
 ---
+ 
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Rehenabegum109&show_icons=true&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rehenabegum109&theme=tokyonight&hide_border=true)
 
-### 📊 GitHub Stats  
-![Rehena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rehenabegum109&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehenabegum109&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🏆 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehenabegum109&layout=compact&theme=radical)
+## 🌱 Currently Learning
+
+- Advanced React Patterns
+- Next.js App Router
+- TypeScript
+- Prisma ORM
+- PostgreSQL
+- Docker (Basics)
+- CI/CD with GitHub Actions
+
+## 🌍 Languages
+
+![Bengali](https://img.shields.io/badge/Bengali-Native-008000?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-1E90FF?style=for-the-badge)
 
 ---
 
@@ -145,8 +163,13 @@ HTML5 • CSS3 • JavaScript
 - GitHub: [🐙 Rehenabegum109](https://github.com/Rehenabegum109)
 - Email: ✉️ rehenabegum999000@gmail.com
 - LinkedIn: [🔗 Connect](https://linkedin.com/in/rehena-begum-057894396)  
-- Twitter: [🔗 Follow](https://twitter.com/rehenabegum109)
--  Portfolio:🔗(https://fantastic-pudding-980791.netlify.app)
+-  Portfolio:🔗(http://glittery-gaufre-284671.netlify.app)
 ---
-- 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Rehenabegum109&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+⭐ Thanks for visiting my GitHub profile! If you like my work, feel free to explore my repositories and connect with me.
 <!-- Proudly created with ❤️ by Rehena Begum -->
