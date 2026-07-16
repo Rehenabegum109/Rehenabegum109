@@ -89,7 +89,7 @@ A movie discovery and streaming platform featuring trending movies, watchlists, 
 - Subscription System
 
 **🛠️ Tech Stack**
-React • Node.js • Express.js • MongoDB
+Next.js• Node.js • Express.js • MongoDB
 
 🔗 **Repository:**https://github.com/Rehenabegum109/movie_matrix 
 🌐 **Live Demo:**https://eg-movie-matrix-collaboration.vercel.app
@@ -100,9 +100,11 @@ React • Node.js • Express.js • MongoDB
 - Create, Update & Delete Habits
 - Progress Tracking
 - Responsive Design
-   [🔗 Repo](https://github.com/Rehenabegum109/habit-tracker-client) 
- 🌐 **Live Demo: https://poetic-flan-c66ee4.netlify.app
-   **Tech Stack:** React, Tailwind CSS, JavaScript  
+**🛠️ Tech Stack**
+React • Node.js • Express.js • MongoDB
+🔗 **Repository:**https://github.com/Rehenabegum109/habit-tracker-client
+🌐 **Live Demo:**https://poetic-flan-c66ee4.netlify.app
+- 
 
 ### **B12-A40-Hero-Apps** — Full-stack Hero management App
 A full-stack CRUD application for managing superhero data with secure backend APIs.
@@ -112,26 +114,26 @@ A full-stack CRUD application for managing superhero data with secure backend AP
 - REST API
 - Database Integration
 - Responsive UI
-   [🔗 Repo](https://github.com/Rehenabegum109/B12-A40_Hero_apps) 
-   [🌐 Live Demo](#)  
-   **Tech Stack:** React, Node.js, Express, MongoDB  
+  **🛠️ Tech Stack**
+ React, Node.js, Express, MongoDB
+🔗 **Repository:**https://github.com/Rehenabegum109/Hero-kids-app
+🌐 **Live Demo:**https://tubular-moonbeam-b051a7.netlify.app
 
-### **B12A06-Green-Earth** — Environmental awareness website
-An environmental awareness website promoting sustainability with an engaging and responsive design.
+### **### 👗 Luxury Dress Shop
+A modern luxury fashion e-commerce website featuring elegant product collections, category filtering, shopping cart functionality, and a responsive user interface.
 
 **✨ Features**
-- Responsive Layout
-- Informative Sections
-- Modern UI
-- Smooth Navigation
+- Luxury Fashion Product Showcase
+- Category & Product Filtering
+- Shopping Cart
+- Responsive Design
+- Modern UI/UX
 
 **🛠️ Tech Stack**
-HTML5 • CSS3 • JavaScript
-   [🔗 Repo](https://github.com/Rehenabegum109/B12A06_Green_Earth) 
-   [🌐 Live Demo](#)  
-   **Tech Stack:** HTML, CSS, JavaScript
+Next.js • Vite • Tailwind CSS • DaisyUI • JavaScript
 
-
+🔗 **Repository:**  https://github.com/Rehenabegum109/shop_dress
+🌐 **Live Demo:** https://dress-store-vert.vercel.app
 ---
  
 ## 📊 GitHub Stats
