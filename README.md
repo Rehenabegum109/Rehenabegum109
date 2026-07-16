@@ -102,8 +102,11 @@ Next.js• Node.js • Express.js • MongoDB
 - Responsive Design
 **🛠️ Tech Stack**
 React • Node.js • Express.js • MongoDB
+
 🔗 **Repository:**https://github.com/Rehenabegum109/habit-tracker-client
+
 🌐 **Live Demo:**https://poetic-flan-c66ee4.netlify.app
+
 - 
 
 ### **B12-A40-Hero-Apps** — Full-stack Hero management App
@@ -133,7 +136,9 @@ A modern luxury fashion e-commerce website featuring elegant product collections
 Next.js • Vite • Tailwind CSS • DaisyUI • JavaScript
 
 🔗 **Repository:**  https://github.com/Rehenabegum109/shop_dress
+
 🌐 **Live Demo:** https://dress-store-vert.vercel.app
+
 ---
  
 ## 📊 GitHub Stats
