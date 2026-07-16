@@ -78,6 +78,7 @@ A full-stack scholarship management platform where students can apply for schola
 React • Node.js • Express.js • MongoDB • Firebase
 
 🔗 **Repository:** https://github.com/Rehenabegum109/-ScholarStream
+
 🌐 **Live Demo:** https://illustrious-daffodil-e7692d.netlify.app
 ### 🎬 Movie Matrix
 A movie discovery and streaming platform featuring trending movies, watchlists, reviews, and personalized recommendations.
@@ -92,7 +93,9 @@ A movie discovery and streaming platform featuring trending movies, watchlists, 
 Next.js• Node.js • Express.js • MongoDB
 
 🔗 **Repository:**https://github.com/Rehenabegum109/movie_matrix 
+
 🌐 **Live Demo:**https://eg-movie-matrix-collaboration.vercel.app
+
 ### **habit-tracker-client** — Frontend of Habit Tracker App
 2. Frontend of a modern Habit Tracker application with responsive UI and habit management features.
   **✨ Features**
@@ -118,9 +121,12 @@ A full-stack CRUD application for managing superhero data with secure backend AP
 - REST API
 - Database Integration
 - Responsive UI
+- 
   **🛠️ Tech Stack**
  React, Node.js, Express, MongoDB
+
 🔗 **Repository:**https://github.com/Rehenabegum109/Hero-kids-app
+
 🌐 **Live Demo:**https://tubular-moonbeam-b051a7.netlify.app
 
 ### **### 👗 Luxury Dress Shop
