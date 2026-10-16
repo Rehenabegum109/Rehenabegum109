@@ -1,6 +1,6 @@
  <!-- ═══════════════ BANNER ═══════════════ -->
 <p align="center">
-  <img src="./github-banner.png.png" width="100%" alt="Rehena Begum | Web Developer" />
+  <img src="./github-banner.png" width="100%" alt="Rehena Begum | Web Developer" />
 </p>
 
 <h1 align="center">Hey there, I'm Rehena Begum 👋</h1>
